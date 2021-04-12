@@ -1,0 +1,54 @@
+type Todo @model {
+  id: ID!
+  name: String!
+  description: String
+}
+
+type Todo @model {
+  id: ID!
+  name: String!
+  description: String
+}
+
+type Todo @model {
+  id: ID!
+  name: String!
+  description: String
+}
+
+type Todo @model {
+  id: ID!
+  name: String!
+  description: String
+}
+
+type Todo @model {
+  id: ID!
+  name: String!
+  description: String
+}
+
+type Todo @model {
+  id: ID!
+  name: String!
+  description: String
+}
+
+type Todo @model {
+  id: ID!
+  name: String!
+  description: String
+}
+
+type Todo @model {
+  id: ID!
+  name: String!
+  description: String
+}
+
+type Todo @model {
+  id: ID!
+  name: String!
+  description: String
+}
+
